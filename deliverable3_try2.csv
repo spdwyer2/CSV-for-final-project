@@ -1,0 +1,949 @@
+,dates,statements,rulings,subjects,names,domains
+0,2016-08-16 10:57:32,"<p>&quot;I had previously said that NATO was obsolete because it failed to deal adequately with terrorism. Since my comments, they have changed their policy and now have a new division focused on terror threats.&quot;</p>
+",false,Foreign Policyforeign-policyMilitarymilitaryTerrorismterrorism,donald-trump,foreign-policy
+1,2016-08-15 15:01:42,"<p>Says the U.S. election system is &quot;rigged.&quot;</p>
+",pants-fire,Foreign Policy,donald-trump,military
+2,2016-08-11 14:07:25,"<p>Says Barack Obama &quot;founded ISIS. I would say the co-founder would be crooked Hillary Clinton.&quot;</p>
+",pants-fire,Military,hillary-clinton,terrorism
+3,2016-08-11 14:07:25,"<p>Says Barack Obama &quot;founded ISIS. I would say the co-founder would be crooked Hillary Clinton.&quot;</p>
+",pants-fire,Terrorism,barack-obama,elections
+4,2016-08-10 17:59:49,"<p>Says Hillary Clinton&#39;s plan &quot;would tax many small businesses by almost 50 percent.&quot;</p>
+",barely-true,Electionselections,donald-trump,foreign-policy
+5,2016-08-09 16:50:56,"<p>&quot;The Obama-Clinton war on coal has cost Michigan over 50,000 jobs.&quot;</p>
+",false,Elections,hillary-clinton,terrorism
+6,2016-08-09 16:50:56,"<p>&quot;The Obama-Clinton war on coal has cost Michigan over 50,000 jobs.&quot;</p>
+",false,Foreign Policyforeign-policyTerrorismterrorism,barack-obama,foreign-policy
+7,2016-08-08 17:03:30,"<p>Says the media distorted&nbsp;what happened with a baby at his rally.</p>
+",true,Foreign Policy,donald-trump,terrorism
+8,2016-08-05 14:59:02,"<p>Says he saw videotape &quot;of the people taking the money off the plane&quot; to pay ransom to Iran for hostages.</p>
+",false,Terrorism,hillary-clinton,economy
+9,2016-08-05 12:34:23,"<p>&quot;Hillary Clinton says she wants to, &lsquo;raise taxes on the middle class.&rsquo; &quot;</p>
+",pants-fire,Foreign Policyforeign-policyTerrorismterrorism,donald-trump,small-business
+10,2016-08-04 14:29:30,"<p>&quot;Youth unemployment is through the roof.&quot;</p>
+",false,Foreign Policy,hillary-clinton,taxes
+11,2016-08-02 17:10:48,"<p>&quot;American homeownership rate in Q2 2016 was 62.9% - lowest rate in 51yrs.&quot;</p>
+
+<div>&nbsp;</div>
+",mostly-true,Terrorism,barack-obama,wealth
+12,2016-08-02 15:57:26,"<p>Says Donald Trump &quot;is going to go out and carpet bomb&quot; the Middle East.</p>
+",false,EconomyeconomySmall Businesssmall-businessTaxestaxesWealthwealth,donald-trump,energy
+13,2016-08-01 18:02:31,"<p>&quot;As usual, Hillary &amp; the Dems are trying to rig the debates so 2 are up against major NFL games.&quot;</p>
+",pants-fire,Economy,hillary-clinton,environment
+14,2016-08-01 15:50:11,"<p>On whether he&rsquo;s had a relationship with Vladimir Putin.</p>
+",full-flop,Small Business,barack-obama,government-regulation
+15,2016-07-29 01:03:27,"<p>Says Donald Trump &quot;claimed our armed forces are &#39;a disaster.&#39;&quot;</p>
+",mostly-true,Taxes,donald-trump,jobs
+16,2016-07-28 18:39:48,"<p>On whether the federal government should set a minimum wage</p>
+",full-flop,Wealth,various-media-reports,energy
+17,2016-07-28 01:39:57,"<p>Says Donald Trump promised &quot;the mass deportation of Latino families.&quot;</p>
+",half-true,EnergyenergyEnvironmentenvironmentGovernment regulationgovernment-regulationJobsjobs,donald-trump,environment
+18,2016-07-28 01:08:40,"<p>&quot;Illegal immigration and the crime rate are as low as they&rsquo;ve been in decades.&quot;</p>
+",mostly-true,Energy,donald-trump,government-regulation
+19,2016-07-27 22:40:55,"<p>Independent analysts &quot;found that Trump&#39;s tax plan, given to the wealthy and big corporations, would rack up $30 trillion in debt.&quot;</p>
+",half-true,Environment,hillary-clinton,jobs
+20,2016-07-27 21:25:16,"<p>Donald Trump &quot;called the military that I served in a disaster.&quot;</p>
+",mostly-true,Government regulation,donald-trump,candidates-biography
+21,2016-07-27 14:40:21,"<p>&quot;Not one American flag on the massive stage at the Democratic National Convention until people started complaining- then a small one. Pathetic.&quot;</p>
+",half-true,Jobs,donald-trump,children
+22,2016-07-27 00:21:39,"<p>Says when an interviewer asked Donald Trump if he treats women with respect, Trump replied, &quot;I can&#39;t say that.&quot;</p>
+",barely-true,EnergyenergyEnvironmentenvironmentGovernment regulationgovernment-regulationJobsjobs,donald-trump,foreign-policy
+23,2016-07-26 00:48:21,"<p>&quot;Donald Trump said he was excited for the 2008 housing crash that devastated millions of American families, because he thought it would help him scoop up more real estate on the cheap.&quot;</p>
+",half-true,Energy,donald-trump,taxes
+24,2016-07-26 00:13:05,"<p>Says Donald Trump &quot;believes that states should actually have the right to lower the minimum wage below $7.25.&quot;</p>
+",mostly-true,Environment,joe-biden,economy
+25,2016-07-25 16:35:15,"<p>Says &quot;Donald Trump is a guy who has called for privatization&quot; of the Veterans Administration.</p>
+",barely-true,Government regulation,hillary-clinton,economy
+26,2016-07-25 15:43:46,"<p>&quot;An analysis showed that Bernie Sanders would have won the Democratic nomination if it were not for the Super Delegates.&quot;</p>
+",false,Jobs,donald-trump,housing
+27,2016-07-22 02:36:58,"<p>&quot;Nearly 180,000 illegal immigrants with criminal records, ordered deported from our country, are tonight roaming free to threaten peaceful citizens.&quot;</p>
+",mostly-true,Candidate Biographycandidates-biographyChildrenchildren,donald-trump,foreign-policy
+28,2016-07-22 01:02:06,"<p>&quot;An amendment, pushed by Lyndon Johnson many years ago, threatens religious institutions with a loss of their tax-exempt status if they openly advocate their political views.&quot;</p>
+",true,Candidate Biography,donald-trump,human-rights
+29,2016-07-22 00:34:21,"<p>&quot;America is one of the highest-taxed nations in the world.&quot;</p>
+
+<div>&nbsp;</div>
+",barely-true,Children,hillary-clinton,iraq
+30,2016-07-21 23:47:53,"<p>&quot;Household incomes are down more than $4,000 since the year 2000.&quot;</p>
+",mostly-true,Foreign Policyforeign-policy,donald-trump,military
+31,2016-07-21 23:37:37,"<p>&quot;Our trade deficit in goods reached nearly &hellip; $800 billion last year alone.&quot;</p>
+",true,Foreign Policy,donald-trump,terrorism
+32,2016-07-21 23:27:09,"<p>Says Hillary Clinton &quot;supported North American Free Trade Agreement), and she supported China&rsquo;s entrance into the World Trade Organization&hellip;. She supported the job-killing trade deal with South Korea. She supported the Trans-Pacific Partnership.&quot;</p>
+",mostly-true,Taxestaxes,karen-bass,debates
+33,2016-07-21 23:23:50,"<p>Says Hillary Clinton &quot;wants to essentially abolish the Second Amendment.&quot;</p>
+",false,Taxes,donald-trump,sports
+34,2016-07-21 23:16:17,"<p>&quot;While Hillary Clinton plans a massive, and I mean massive, tax increase, I have proposed the largest tax reduction of any candidate who has run for president this year, Democrat or Republican.&quot;</p>
+",mostly-true,Economyeconomy,barack-obama,candidates-biography
+35,2016-07-21 23:11:31,"<p>&quot;America has lost nearly&nbsp;one third of its manufacturing jobs since 1997, following the enactment of disastrous trade deals supported by Bill and Hillary Clinton.&quot;</p>
+
+<p>&nbsp;</p>
+",half-true,Economy,donald-trump,foreign-policy
+36,2016-07-21 23:01:39,"<p>Says Hillary Clinton &quot;has called for a radical 550 percent increase in Syrian &nbsp;... refugees . . . &nbsp;despite the fact that there&rsquo;s no way to screen these refugees in order to find out who they are or where they come from.&quot;</p>
+
+<p>&nbsp;</p>
+",half-true,EconomyeconomyHousinghousing,tim-kaine,foreign-policy
+37,2016-07-21 22:42:37,"<p>&quot;Forty-three million Americans are on food stamps.&quot;</p>
+
+<div>&nbsp;</div>
+",true,Economy,donald-trump,military
+38,2016-07-21 22:36:09,"<p>&quot;The number of new illegal immigrant families who have crossed the border so far this year already exceeds the entire total from 2015.&quot;</p>
+",half-true,Housing,john-hutson,economy
+39,2016-07-21 22:30:51,"<p>&quot;Homicides last year increased by 17 percent in America&rsquo;s 50 largest cities. That&rsquo;s the largest increase in 25 years.&quot;</p>
+",half-true,Foreign Policyforeign-policyHuman Rightshuman-rightsIraqiraqMilitarymilitaryTerrorismterrorism,donald-trump,workers
+40,2016-07-21 22:28:36,"<p>&quot;Two million more Latinos are in poverty today than when President Obama&nbsp;took his oath of office less than eight years ago.&quot;</p>
+",half-true,Foreign Policy,donald-trump,immigration
+41,2016-07-18 23:57:37,"<p>Says as GOP was picking a convention city, &quot;I recommended Ohio.&quot;</p>
+",false,Human Rights,hillary-clinton,crime
+42,2016-07-15 11:16:28,"<p>&quot;Just look at what the FBI director said about her (Hillary Clinton) &mdash; her misconduct &nbsp;is a disgrace and embarrassment to our country.&quot;</p>
+",false,Iraq,donald-trump,history
+43,2016-07-14 14:59:18,"<p>&quot;(Mexican immigrants) are more law-abiding than U.S. citizens and that is a statistic.&quot;</p>
+",mostly-true,Military,elizabeth-warren,immigration
+44,2016-07-13 15:05:52,"<p>&quot;Independent analysts say (Donald Trump) would add $30 trillion to the national debt.&quot;</p>
+",half-true,Terrorism,donald-trump,debt
+45,2016-07-07 17:57:09,"<p>&quot;You know what (Saddam Hussein) did well? He killed terrorists.&quot;</p>
+",barely-true,DebatesdebatesSportssports,bernie-s,taxes
+46,2016-07-07 11:55:06,"<p>&quot;Taxpayers are paying a fortune for the use of Air Force One on the campaign trail&quot; by President Barack Obama and Hillary Clinton.</p>
+",mostly-true,Debates,donald-trump,military
+47,2016-07-07 11:55:06,"<p>&quot;Taxpayers are paying a fortune for the use of Air Force One on the campaign trail&quot; by President Barack Obama and Hillary Clinton.</p>
+",mostly-true,Sports,tim-kaine,patriotism
+48,2016-07-05 11:25:10,"<p>Says Donald Trump&#39;s position is&nbsp;&quot;to roll back all&quot; of the financial regulations passed after the financial crisis.</p>
+",mostly-true,Candidate Biographycandidates-biographyForeign Policyforeign-policy,bernie-s,history
+49,2016-07-01 12:30:00,"<p>&quot;As Secretary of State, Hillary Clinton laundered money to Bill Clinton through Laureate Education, while Bill Clinton was an honorary chairman of the group.&quot;</p>
+
+<p>&nbsp;</p>
+",false,Candidate Biography,donald-trump,women
+50,2016-07-01 12:30:00,"<p>&quot;As Secretary of State, Hillary Clinton laundered money to Bill Clinton through Laureate Education, while Bill Clinton was an honorary chairman of the group.&quot;</p>
+
+<p>&nbsp;</p>
+",false,Foreign Policy,donald-trump,debt
+51,2016-07-01 11:54:08,"<p>Says Donald Trump&rsquo;s proposed tax treatment of hedge fund managers &quot;makes the current loophole even worse.&quot;</p>
+",true,Foreign Policyforeign-policyMilitarymilitary,donald-trump,economy
+52,2016-06-30 14:21:35,"<p>Says Hillary Clinton&rsquo;s State Department &quot;approved the transfer of 20 percent of America&rsquo;s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation.&quot;</p>
+",barely-true,Foreign Policy,donald-trump,history
+53,2016-06-29 11:57:17,"<p>&quot;As Bernie Sanders said, Hillary Clinton &lsquo;voted for virtually every trade agreement that has cost the workers of this country millions, millions of jobs.&rsquo; &quot;</p>
+",half-true,Military,donald-trump,housing
+54,2016-06-28 17:58:44,"<p>&quot;Hillary Clinton surged the trade deficit with China 40% as Secretary of State, costing Americans millions of jobs.&quot;</p>
+",barely-true,EconomyeconomyWorkersworkers,donald-trump,jobs
+55,2016-06-28 16:47:44,"<p>Says Hillary Clinton &quot;filibustered legislation to reform&quot; Fannie Mae and Freddie Mac.</p>
+",false,Economy,hillary-clinton,poverty
+56,2016-06-27 16:08:27,"<p>&quot;Risk analysts listed Donald Trump, a Donald Trump presidency, as one of the top threats facing the global economy, ahead of terrorism.&quot;</p>
+",true,Workers,donald-trump,workers
+57,2016-06-24 11:53:59,"<p>&quot;We don&#39;t know anything about Hillary in terms of religion. Now, she&#39;s been in the public eye for years and years, and yet there&#39;s no &mdash; there&#39;s nothing out there.&quot;</p>
+",pants-fire,Immigrationimmigration,hillary-clinton,health-care
+58,2016-06-23 16:32:00,"<p>Says Hillary Clinton &quot;has even deleted this record of total support (for the Trans-Pacific Partnership trade agreement) from her book.&quot;</p>
+",pants-fire,Immigration,donald-trump,veterans
+59,2016-06-23 13:44:22,"<p>The Benghazi victims were &quot;left helpless to die as Hillary Clinton soundly slept in her bed.&quot;</p>
+",false,CrimecrimeHistoryhistoryImmigrationimmigration,hillary-clinton,elections
+60,2016-06-22 17:03:08,"<p>&quot;For the amount of money Hillary Clinton would like to spend on refugees, we could rebuild every inner city in America.&quot;</p>
+",pants-fire,Crime,donald-trump,immigration
+61,2016-06-22 12:40:16,"<p>Says Hillary Clinton &quot;said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers.&quot;</p>
+",true,History,hillary-clinton,history
+62,2016-06-22 11:45:54,"<p>&quot;I was among the earliest to criticize the rush to war (in Iraq), and yes, even before the war ever started.&quot;</p>
+
+<div>&nbsp;</div>
+",false,Immigration,donald-trump,human-rights
+63,2016-06-21 16:37:49,"<p>Says Donald Trump has &quot;bankrupted his companies not once, not twice but four times.&quot;</p>
+",mostly-true,DebtdebtTaxestaxes,hillary-clinton,legal-issues
+64,2016-06-19 18:10:14,"<p>Says Donald Trump has said he loves war, &quot;including with nukes.&quot;</p>
+",half-true,Debt,donald-trump,religion
+65,2016-06-19 17:48:02,"<p>Says delegates can&#39;t &quot;legally&quot; change the Republican National Convention rules to prevent Donald Trump&rsquo;s nomination.</p>
+",barely-true,Taxes,donald-trump,taxes
+66,2016-06-16 10:00:00,"<p>&quot;According to Pew Research, 99 percent of the people in Afghanistan support oppressive Sharia law.&quot;</p>
+",mostly-true,Militarymilitary,donald-trump,taxes
+67,2016-06-15 17:48:18,"<p>&quot;The Obama administration was actively supporting Al Qaeda in Iraq, the terrorist group that became the Islamic State.&quot;</p>
+",pants-fire,Military,donald-trump,economy
+68,2016-06-15 17:48:18,"<p>&quot;The Obama administration was actively supporting Al Qaeda in Iraq, the terrorist group that became the Islamic State.&quot;</p>
+",pants-fire,Patriotismpatriotism,donald-trump,income
+69,2016-06-13 17:55:19,"<p>Says Hillary Clinton &quot;plans to massively increase admissions (of Middle East refugees) &hellip; including a 500 percent increase in Syrian refugees coming into our country.&quot;</p>
+",mostly-true,Patriotism,donald-trump,economy
+70,2016-06-13 17:04:01,"<p>There is &quot;no system to vet&quot; refugees from the Middle East.</p>
+
+<div>&nbsp;</div>
+",false,HistoryhistoryWomenwomen,hillary-clinton,trade
+71,2016-06-13 15:31:20,"<p>&quot;We admit more than 100,000 lifetime migrants from the Middle East each year.&quot;</p>
+",mostly-true,History,donald-trump,candidates-biography
+72,2016-06-09 11:31:02,"<p>&quot;Crime is rising.&quot;</p>
+",pants-fire,Women,donald-trump,trade
+73,2016-06-07 13:14:57,"<p>Says Judge Gonzalo Curiel &quot;is a member of a club or society, very strongly pro-Mexican.&quot;</p>
+
+<div>&nbsp;</div>
+",barely-true,DebtdebtEconomyeconomyHistoryhistoryHousinghousing,gary-johnson,guns
+74,2016-06-06 17:54:47,"<p>&quot;A trade war is something very different (than curbing new trade agreements). We went down that road in the 1930s. It made the Great Depression longer and more painful.&quot;</p>
+",true,Debt,donald-trump,taxes
+75,2016-06-03 14:20:56,"<p>Says Donald Trump &quot;says he has foreign policy experience because he ran the Miss Universe pageant in Russia.&quot;</p>
+",half-true,Economy,hillary-clinton,trade
+76,2016-06-03 12:00:53,"<p>Says &quot;Donald Trump says climate change is a hoax invented by the Chinese.&quot;</p>
+",mostly-true,History,donald-trump,foreign-policy
+77,2016-06-02 14:39:21,"<p>Says Hillary Clinton has spoken &quot;such lies about my foreign policy. They said I want Japan to &hellip; get nuclear weapons. Give me a break.&quot;</p>
+",barely-true,Housing,hillary-clinton,homeland-security
+78,2016-06-01 16:27:10,"<p>&quot;We&#39;re losing thousands of (veterans) waiting on line&quot; because they can&#39;t get speedy health care from the Veterans Administration.</p>
+
+<div>&nbsp;</div>
+",half-true,JobsjobsPovertypovertyWorkersworkers,barack-obama,human-rights
+79,2016-05-31 17:41:12,"<p>&quot;I wanted to keep it private, because I don&#39;t think it&#39;s anybody&#39;s business if I want to send money to the vets.&quot;</p>
+",pants-fire,Jobs,donald-trump,immigration
+80,2016-05-31 08:00:00,"<p>In California, &quot;the windmills are killing hundreds and hundreds of eagles.&quot;</p>
+
+<div>&nbsp;</div>
+",barely-true,Poverty,hillary-clinton,terrorism
+81,2016-05-29 17:18:27,"<p>&quot;Right now, in every major poll, national poll and statewide poll done in the last month, six weeks, we are defeating Trump, often by big numbers&nbsp;and always at a larger margin than Secretary Clinton is.&quot;</p>
+",mostly-true,Workers,barack-obama,welfare
+82,2016-05-27 16:38:03,"<p>&quot;Hypocrisy at the Clinton Foundation: Top male staff made on average $218,029 while top female staff made $153,014 from 2010-2014.&quot;</p>
+",half-true,Health Carehealth-careVeteransveterans,donald-trump,immigration
+83,2016-05-26 14:57:48,"<p>&quot;In 2006, Donald Trump was hoping for a real estate crash.&quot;</p>
+",mostly-true,Health Care,donald-trump,crime
+84,2016-05-26 11:40:52,"<p>It &quot;is Hillary Clinton&#39;s agenda&quot; to &quot;release the violent criminals from jail. She wants them all released.&quot;</p>
+",pants-fire,Veterans,elizabeth-warren,criminal-justice
+85,2016-05-25 18:20:27,"<p>&quot;There are places in America that are among the most dangerous in the world. You go to places like Oakland. Or Ferguson. The crime numbers are worse. Seriously.&quot;</p>
+",false,Electionselections,hillary-clinton,economy
+86,2016-05-25 16:00:00,"<p>&quot;Look, we are at war with these people and they don&#39;t wear uniforms. &hellip;&nbsp;This is a war against people that are vicious, violent people, that we have no idea who they are, where they come from. We are allowing tens of thousands of them into our country now.&quot;</p>
+",pants-fire,Elections,bill-clinton,immigration
+87,2016-05-24 13:00:00,"<p>&quot;The only two (Donald Trump tax returns) we have show that he hasn&#39;t paid a penny in taxes.&quot;</p>
+",barely-true,Immigrationimmigration,donald-trump,poverty
+88,2016-05-20 15:50:46,"<p>&quot;We now do have evidence&quot; that Donald Trump is being used as a recruiting tool for terrorists.</p>
+",true,Immigration,hillary-clinton,welfare
+89,2016-05-19 10:44:03,"<p>Says &quot;Elizabeth Warren lied when she says I want to abolish the Federal Minimum Wage.&quot;</p>
+",barely-true,HistoryhistoryHuman Rightshuman-rightsLegal Issueslegal-issuesReligionreligionTaxestaxes,bill-clinton,elections
+90,2016-05-18 17:16:40,"<p>Says Donald Trump said of women, &quot;And you can tell them to go f--- themselves.&quot;</p>
+",pants-fire,History,donald-trump,candidates-biography
+91,2016-05-11 16:45:56,"<p>Says&nbsp;Hillary Clinton &quot;wants to abolish the Second Amendment.&quot;</p>
+",false,Human Rights,donald-trump,criminal-justice
+92,2016-05-11 15:49:39,"<p>Germany &quot;is crime-riddled right now&quot; because of migration to Europe.</p>
+",barely-true,Legal Issues,hillary-clinton,job-accomplishments
+93,2016-05-08 17:44:51,"<p>&quot;You have to be a citizen to vote,&quot; but with same-day voter registration, &quot;you have places where people just walk in and vote.&quot;</p>
+",false,Religion,hillary-clinton,legal-issues
+94,2016-05-08 17:43:00,"<p>&quot;We&#39;re the highest taxed nation in the world.&quot;</p>
+",false,Taxes,donald-trump,campaign-advertising
+95,2016-05-05 18:10:25,"<p>Says Donald Trump promised to repeal Obamacare, build a wall, ban Muslims, and more.</p>
+",mostly-true,Taxestaxes,hillary-clinton,public-service
+96,2016-05-03 17:59:12,"<p>Says Ted Cruz&rsquo;s father &quot;was with Lee Harvey Oswald&quot; before the assassination of President John F. Kennedy.</p>
+",pants-fire,Taxes,donald-trump,technology
+97,2016-05-02 16:26:53,"<p>&quot;Frankly, (Hillary Clinton) doesn&rsquo;t do very well with women.&quot;</p>
+",pants-fire,EconomyeconomyIncomeincome,hillary-clinton,immigration
+98,2016-04-28 16:55:47,"<p>&quot;When President Obama landed in Cuba on Air Force One, no leader was there, nobody, to greet him -- perhaps an incident without precedent in the long and prestigious history of Air Force One.&quot;</p>
+",half-true,Economy,donald-trump,debt
+99,2016-04-27 18:05:43,"<p>&quot;ISIS is making millions of dollars a week selling Libyan oil.&quot;</p>
+",false,Income,hillary-clinton,deficit
+100,2016-04-27 18:00:14,"<p>&quot;I was totally against the war in Iraq, saying for many years that it would destabilize the Middle East.&quot;</p>
+",false,EconomyeconomyTradetrade,donald-trump,economy
+101,2016-04-25 17:38:29,"<p>Says Donald Trump thinks &quot;a grown man pretending to be a woman (should) be allowed to use the women&#39;s restroom.&quot;</p>
+",barely-true,Economy,donald-trump,foreign-policy
+102,2016-04-25 16:46:13,"<p>&quot;I earned more votes in the state of Wisconsin than Donald Trump did in New York.&quot;</p>
+",true,Trade,hillary-clinton,terrorism
+103,2016-04-20 16:28:39,"<p>&quot;Ted Cruz is mathematically out of winning the race.&quot;</p>
+",mostly-true,Candidate Biographycandidates-biographyTradetrade,donald-trump,campaign-finance
+104,2016-04-20 13:18:34,"<p>Says professional football coach Rex Ryan &quot;won championships in New York.&nbsp;The AFC, I think, twice.&quot;</p>
+",false,Candidate Biography,hillary-clinton,elections
+105,2016-04-14 10:05:57,"<p>&quot;My numbers are better right now than Ronald Reagan&#39;s numbers were with Jimmy Carter.&quot;</p>
+",false,Trade,donald-trump,government-regulation
+106,2016-04-04 14:37:22,"<p>China is &quot;in the South China Sea and (building)&nbsp;a military fortress the likes of which perhaps the world has not seen.&quot;</p>
+",half-true,Gunsguns,hillary-clinton,history
+107,2016-04-04 14:34:13,"<p>&quot;We&rsquo;ve rebuilt China.&quot;</p>
+",half-true,Guns,donald-trump,taxes
+108,2016-03-31 17:29:23,"<p>Says&nbsp;Ted Cruz distributed the ad showing a nude Melania Trump on a rug.</p>
+
+<div>&nbsp;</div>
+",false,Taxestaxes,donald-trump,transparency
+109,2016-03-30 17:34:34,"<p>Says that when Michelle Fields &quot;found out that there was a security camera, and that they had her on tape, all of a sudden that story changed.&quot;</p>
+",pants-fire,Taxes,donald-trump,campaign-finance
+110,2016-03-30 16:39:55,"<p>&quot;There&rsquo;s a tremendous tax that we pay when we (American businesses) go into China, whereas when China sells to us there&rsquo;s no tax.&quot;</p>
+",barely-true,Tradetrade,donald-trump,elections
+111,2016-03-24 10:38:24,"<p>&quot;When those restrictions expire (in the Iran nuclear deal), Iran will have an industrial-size military nuclear capability ready to go.&quot;</p>
+",false,Trade,donald-trump,government-regulation
+112,2016-03-22 18:14:04,"<p>&quot;During the last five years, Iran has perpetrated terror attacks in 25 different countries on five continents.&quot;</p>
+",half-true,Foreign Policyforeign-policyHomeland Securityhomeland-securityHuman Rightshuman-rightsImmigrationimmigrationTerrorismterrorism,hillary-clinton,history
+113,2016-03-21 15:56:30,"<p>Says Donald Trump promised &quot;to take care of everybody (through government-run healthcare and) the government&#39;s going to pay for it.&quot;</p>
+",false,Foreign Policy,donald-trump,taxes
+114,2016-03-20 17:33:08,"<p>Says Donald&nbsp;&quot;Trump got, you know, $1.8 billion worth of free media. I got, like, none.&quot;</p>
+",mostly-true,Homeland Security,priorities-usa-action,transparency
+115,2016-03-17 15:06:45,"<p>Under the Iran nuclear deal, &quot;we give them $150 billion, we get nothing.&quot;</p>
+",false,Human Rights,donald-trump,financial-regulation
+116,2016-03-13 17:38:32,"<p>Says the man who rushed the stage at him in Dayton, Ohio, &quot;had chatter about ISIS, or with ISIS&quot; in his social media posts.</p>
+",false,Immigration,donald-trump,candidates-biography
+117,2016-03-11 00:26:12,"<p>&quot;GDP was zero essentially for the last two quarters.&quot;</p>
+",false,Terrorism,hillary-clinton,ethics
+118,2016-03-10 22:40:23,"<p>Common Core is &quot;education through Washington D.C.&quot;</p>
+",false,Welfarewelfare,barack-obama,candidates-biography
+119,2016-03-09 18:13:50,"<p>Says Donald Trump said the government is going to pay for everybody to have health care.</p>
+",false,Welfare,donald-trump,ethics
+120,2016-03-08 13:54:38,"<p>&quot;Almost every poll has shown that Sanders vs. Trump does a lot better than Clinton vs. Trump &hellip; and, that&rsquo;s true nationally.&quot;</p>
+",mostly-true,Immigrationimmigration,hillary-clinton,taxes
+121,2016-03-07 11:56:49,"<p>&quot;The Great Wall of China, built 2,000 years ago, is 13,000 miles (long).&quot;</p>
+",half-true,Immigration,barack-obama,corrections-and-updates
+122,2016-03-06 18:12:22,"<p>On Donald Trump&#39;s track record in business</p>
+",full-flop,CrimecrimeCriminal Justicecriminal-justice,donald-trump,ethics
+123,2016-03-04 00:29:31,"<p>Says Donald Trump has written 10 checks to Hillary Clinton &quot;and four of those checks were not to her Senate campaign. &hellip; It was to her presidential campaign.&quot;</p>
+",half-true,Crime,hillary-clinton,foreign-policy
+124,2016-03-03 23:30:38,"<p>The wives of the 9/11 hijackers &quot;knew exactly what was happening&quot; and went back to Saudi Arabia two days before the attacks to watch their husbands on television flying the planes.</p>
+",false,Criminal Justice,donald-trump,jobs
+125,2016-03-03 22:40:20,"<p>Marco Rubio &quot;has the No. 1&nbsp;absentee record in the United States&quot; Senate.</p>
+",mostly-true,EconomyeconomyImmigrationimmigrationPovertypovertyWelfarewelfare,donald-trump,trade
+126,2016-03-03 22:22:15,"<p>In head-to-head polls for the general election, &quot;I beat Hillary Clinton by more than anybody, by 11 points.&quot;</p>
+",mostly-true,Economy,donald-trump,economy
+127,2016-03-03 19:00:00,"<p>Says Mahatma Gandhi once said, &quot;First they ignore you, then they laugh at you, then they fight you, then you win.&quot;</p>
+",false,Immigration,donald-trump,foreign-policy
+128,2016-03-02 17:42:26,"<p>&quot;I don&#39;t know anything about David Duke.&quot;</p>
+",pants-fire,Poverty,donald-trump,jobs
+129,2016-03-02 13:30:06,"<p>Says &quot;Harry Reid, when asked about the Republican field, said the Republican he likes the best is Donald Trump, and he said, because I can work with him. He&#39;ll cut deals.&quot;</p>
+",false,Welfare,donald-trump,trade
+130,2016-03-02 11:53:19,"<p>&quot;There have been multiple media reports about (Donald Trump&#39;s) business dealings with the mob, with the mafia.&quot;</p>
+",true,Electionselections,hillary-clinton,candidates-biography
+131,2016-03-01 13:40:03,"<p>Says &quot;the <em>New York Times </em>can write a story that they know is false&quot; yet &quot;they can&#39;t basically be sued.&quot;</p>
+",false,Elections,donald-trump,housing
+132,2016-02-28 18:42:53,"<p>&quot;We (Trump University)&nbsp;have an &lsquo;A&rsquo; from the Better Business Bureau.&quot;</p>
+
+<div>&nbsp;</div>
+",false,Candidate Biographycandidates-biographyCriminal Justicecriminal-justiceJob Accomplishmentsjob-accomplishmentsLegal Issueslegal-issuesNegative Campaigningcampaign-advertisingPublic Servicepublic-serviceTechnologytechnology,hillary-clinton,economy
+133,2016-02-25 23:30:47,"<p>Says Donald Trump hired illegal workers &quot;from Poland and he had to pay a million dollars or so in a judgment.&quot;</p>
+",half-true,Candidate Biography,donald-trump,religion
+134,2016-02-25 23:05:23,"<p>Says Ted Cruz&nbsp;&quot;said I was in favor in Libya. I never discussed that subject.&quot;</p>
+",pants-fire,Criminal Justice,hillary-clinton,candidates-biography
+135,2016-02-25 21:30:22,"<p>&quot;If it weren&rsquo;t for me &hellip; (illegal immigration) wouldn&rsquo;t even be a big subject.&quot;</p>
+
+<div>&nbsp;</div>
+",false,Job Accomplishments,hillary-clinton,economy
+136,2016-02-23 16:02:33,"<p>Says that in the Philippines more than a century ago, Gen. John Pershing &quot;took 50 bullets, and he dipped them in pigs&rsquo; blood,&quot; and shot 49 Muslim rebels. &quot;The 50th person, he said, &lsquo;You go back to your people, and you tell them what happened.&rsquo; And for 25 years, there wasn&rsquo;t a problem.&quot;</p>
+",pants-fire,Legal Issues,donald-trump,foreign-policy
+137,2016-02-21 16:55:01,"<p>With Obamacare,&nbsp;&quot;You have no options ..&nbsp;you can&#39;t get competitive bidding.&quot;</p>
+",barely-true,Negative Campaigning,donald-trump,history
+138,2016-02-21 16:53:46,"<p>&quot;About 70 percent&nbsp;of Republicans nationwide ...&nbsp;don&#39;t think Donald Trump is the right guy&quot; to take on Hillary Clinton in November.</p>
+",mostly-true,Public Service,donald-trump,job-accomplishments
+139,2016-02-13 23:12:14,"<p>On the Iraq war, &quot;I said it loud and clear, &#39;You&#39;ll destabilize the Middle East.&#39; &quot;</p>
+",false,Technology,donald-trump,trade
+140,2016-02-11 18:33:01,"<p>&quot;Don&#39;t believe those phony numbers when you hear 4.9 and 5 percent unemployment. The number&#39;s probably 28, 29, as high as 35. In fact, I even heard recently 42 percent.&quot;</p>
+",pants-fire,Immigrationimmigration,hillary-clinton,foreign-policy
+141,2016-02-10 16:00:00,"<p>&quot;I&#39;m self-funding my own campaign.&quot;</p>
+",half-true,Immigration,donald-trump,terrorism
+142,2016-02-06 23:50:38,"<p>&quot;Right now we&rsquo;re the highest taxed country in the world.&quot;</p>
+",false,DebtdebtDeficitdeficitEconomyeconomy,bernie-s,immigration
+143,2016-02-06 23:18:34,"<p>Regarding the Iraq War, &quot;I was the one that said, &lsquo;Don&rsquo;t go, don&rsquo;t do it, you&rsquo;re going to destabilize the Middle East.&rsquo; &quot;</p>
+",barely-true,Debt,hillary-clinton,urban
+144,2016-01-31 16:16:16,"<p>&quot;Donald Trump and Hillary Clinton and Bernie Sanders have the identical position on health care, which is they want to put the government in charge of you and your doctor.&quot;</p>
+",false,Deficit,donald-trump,ethics
+145,2016-01-29 00:53:56,"<p>&quot;I never once asked that (Megyn Kelly) be removed&quot; as a debate moderator.</p>
+",false,Economy,donald-trump,iraq
+146,2016-01-24 16:24:46,"<p>Says a Ted Cruz ad has &quot;got me bull-dozing down a house.&nbsp;I never bulldozed it down. It&#39;s false advertising.&quot;</p>
+",half-true,Foreign Policyforeign-policyTerrorismterrorism,hillary-clinton,candidates-biography
+147,2016-01-24 14:25:13,"<p>Says Donald Trump &quot;thinks that climate change is a hoax, invented by the Chinese.&quot;</p>
+",mostly-true,Foreign Policy,donald-trump,candidates-biography
+148,2016-01-21 12:20:41,"<p>China has &quot;total control, just about, of North Korea.&quot;</p>
+",barely-true,Terrorism,donald-trump,foreign-policy
+149,2016-01-14 22:09:41,"<p>Among Syrian refugees and migrants coming into Europe, &quot;there look like very few women. Very few children.&quot;</p>
+",false,Campaign Financecampaign-financeElectionselectionsGovernment regulationgovernment-regulationHistoryhistoryTaxestaxesTransparencytransparency,donald-trump,military
+150,2016-01-10 13:47:38,"<p>&quot;We get practically nothing compared to the cost of&quot; keeping U.S. military forces in South Korea.</p>
+",barely-true,Campaign Finance,donald-trump,corrections-and-updates
+151,2016-01-10 09:00:00,"<p>The five Guantanamo detainees swapped for Bowe Bergdahl are &quot;back on the battlefield.&quot;</p>
+
+<div>&nbsp;</div>
+",false,Elections,hillary-clinton,elections
+152,2016-01-04 14:04:38,"<p>A Trump television ad shows Mexicans swarming over &quot;our southern border.&quot;</p>
+",pants-fire,Government regulation,donald-trump,legal-issues
+153,2015-12-20 15:25:23,"<p>Says American polling shows Russian President Vladimir Putin has &quot;an 80 percent approval rating.&quot;</p>
+",true,History,hillary-clinton,immigration
+154,2015-12-19 22:55:00,"<p>ISIS is &quot;going to people showing videos of Donald Trump insulting Islam and Muslims in order to recruit more radical jihadists.&quot;</p>
+",false,Taxes,elizabeth-warren,islam
+155,2015-12-17 14:37:49,"<p>The 9/11 terrorists&#39;&nbsp;friends, family, girlfriends in the United States&nbsp;&quot;were sent back for the most part to Saudi Arabia. They knew what was going on. They went home, and they wanted to watch their boyfriends on television.&quot;</p>
+",false,Transparency,donald-trump,foreign-policy
+156,2015-12-17 11:29:56,"<p>&quot;If you are going to kill the families of terrorists, realize that there&#39;s something called the Geneva Convention we&#39;re going to have to pull out of.&quot;</p>
+",true,Campaign Financecampaign-financeElectionselectionsGovernment regulationgovernment-regulationHistoryhistoryTaxestaxesTransparencytransparency,donald-trump,military
+157,2015-12-15 23:02:54,"<p>&quot;Two months ago, Donald Trump said that ISIS was not our fight.&quot;</p>
+",mostly-true,Campaign Finance,priorities-usa-action,terrorism
+158,2015-12-15 19:46:37,"<p>&quot;We&#39;re practically not allowed to use coal any more. What do we do with our coal? We ship it to China and they spew it in the air.&quot;</p>
+",barely-true,Elections,hillary-clinton,foreign-policy
+159,2015-12-09 15:48:38,"<p>Says 25 percent of U.S. Muslims &quot;agreed that violence against Americans here in the United States is justified as a part of the global jihad.&quot;</p>
+",barely-true,Government regulation,donald-trump,military
+160,2015-11-23 15:35:32,"<p>Says crime statistics show blacks kill 81 percent of white homicide victims.</p>
+
+<div>&nbsp;</div>
+",pants-fire,History,donald-trump,terrorism
+161,2015-11-22 18:17:52,"<p>&quot;I watched in Jersey City, N.J., where thousands and thousands of people were cheering&quot; as the World Trade Center collapsed.</p>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+",pants-fire,Taxes,donald-trump,families
+162,2015-11-20 14:17:32,"<p>The New York Police Department used to have &quot;surveillance going on in and around mosques in New York City. ... Our mayor totally cut that out.&quot;</p>
+",half-true,Transparency,donald-trump,foreign-policy
+163,2015-11-18 16:36:53,"<p>The federal government is sending refugees to states with governors who are &quot;Republicans, not to the Democrats.&quot;</p>
+",pants-fire,Financial Regulationfinancial-regulation,donald-trump,homeland-security
+164,2015-11-12 14:39:00,"<p>The Trans-Pacific Partnership &quot;was designed for China to come in, as they always do, through the back door and totally take advantage of everyone.&quot;</p>
+",pants-fire,Financial Regulation,hillary-clinton,human-rights
+165,2015-11-11 17:09:02,"<p>Says President Dwight Eisenhower &quot;moved 1.5 million illegal immigrants out of this country.&quot;</p>
+",half-true,Candidate Biographycandidates-biographyEthicsethics,ted-cruz,immigration
+166,2015-11-10 22:44:21,"<p>&quot;We&rsquo;re losing now over $500 billion a year in terms of imbalance with China.&quot;</p>
+",barely-true,Candidate Biography,donald-trump,terrorism
+167,2015-11-08 14:53:51,"<p>Says that in polls about 2016 candidate leadership skills, he comes out &quot;two and three and four times higher than anybody else.&quot;</p>
+",half-true,Ethics,hillary-clinton,immigration
+168,2015-11-05 11:02:17,"<p>Says his plan would cut taxes without increasing the deficit.</p>
+",false,Candidate Biographycandidates-biographyEthicsethics,donald-trump,terrorism
+169,2015-11-02 17:08:09,"<p>The CNBC debate was supposed to be three hours, and he &quot;renegotiated it down to two hours.&quot;</p>
+",barely-true,Candidate Biography,barack-obama,foreign-policy
+170,2015-11-02 15:00:00,"<p>Says Ohio Gov. John Kasich &quot;got lucky with a thing called fracking,&quot; which &quot;is why Ohio is doing well.&quot;</p>
+",false,Ethics,donald-trump,immigration
+171,2015-10-28 22:20:57,"<p>&quot;I never said that&quot; Marco Rubio was Mark Zuckerberg&rsquo;s personal senator.</p>
+",pants-fire,Taxestaxes,donald-trump,crime
+172,2015-10-25 18:17:02,"<p>Because of Obamacare &quot;people&rsquo;s premiums ...&nbsp;are going up 35, 45, 55 percent.&quot;</p>
+
+<div>&nbsp;</div>
+",half-true,Taxes,donald-trump,criminal-justice
+173,2015-10-21 14:53:15,"<p>Says CIA Director George Tenet told the Bush administration that the Sept. 11, 2001, terrorist attack &quot;was coming. So they did have advanced notice.&quot;</p>
+",false,Corrections and Updatescorrections-and-updatesEthicsethicsForeign Policyforeign-policy,donald-trump,legal-issues
+174,2015-10-07 17:40:15,"<p>Says Donald Trump &quot;supports eminent domain&quot; and the Supreme Court&rsquo;s <em>Kelo&nbsp;</em>decision.&nbsp;</p>
+",true,Corrections and Updates,ted-cruz,economy
+175,2015-10-04 18:57:05,"<p>Among Syrian refugees, &quot;there aren&#39;t that many women, there aren&#39;t that many children.&quot;</p>
+",false,Ethics,donald-trump,foreign-policy
+176,2015-09-30 10:00:00,"<p>The unemployment rate may be as high as &quot;42 percent.&quot;</p>
+",pants-fire,Foreign Policy,ted-cruz,history
+177,2015-09-23 17:59:52,"<p>&quot;The birther movement was started by Hillary Clinton in 2008. She was all in!&quot;</p>
+
+<div>&nbsp;</div>
+",false,JobsjobsTradetrade,ted-cruz,trade
+178,2015-09-21 15:16:41,"<p>When Carly Fiorina says Hewlett-Packard &quot;revenues went up, that&#39;s because she bought Compaq. It was a terrible deal.&quot;</p>
+",mostly-true,Jobs,donald-trump,candidates-biography
+179,2015-09-17 00:28:51,"<p>Says Marco Rubio has &quot;the worst voting record there is today.&quot;</p>
+",mostly-true,Trade,donald-trump,foreign-policy
+180,2015-09-17 00:28:48,"<p>Says Mexico doesn&#39;t have birthright citizenship, and Americans are the &quot;only ones&quot; to have it.</p>
+",false,EconomyeconomyForeign Policyforeign-policyJobsjobsTradetrade,donald-trump,climate-change
+181,2015-09-16 20:39:13,"<p>Says Wisconsin Gov. Scott Walker turned a $1 billion surplus into a $2.2 billion budget deficit.</p>
+",barely-true,Economy,donald-trump,foreign-policy
+182,2015-09-13 18:06:50,"<p>&quot;The top man at Yale Law School came out ... with just a raging report&quot; about former HP CEO Carly Fiorina,&nbsp;saying she is&nbsp;&quot;one of the worst executives in his memory in history running the company.&quot;</p>
+",mostly-true,Foreign Policy,donald-trump,foreign-policy
+183,2015-08-31 17:02:37,"<p>&quot;We have 93 million people out of work. They look for jobs, they give up, and all of a sudden, statistically, they&#39;re considered employed.&quot;</p>
+",false,Jobs,ted-cruz,nuclear
+184,2015-08-28 15:48:42,"<p>&quot;We&rsquo;re the most highly taxed nation in the world.&quot;</p>
+",false,Trade,donald-trump,health-care
+185,2015-08-27 12:58:38,"<p>&quot;Our companies are moving into Mexico more than almost any other place right now.&quot;</p>
+",half-true,Candidate Biographycandidates-biographyHousinghousing,donald-trump,veterans
+186,2015-08-25 17:16:12,"<p>&quot;Many of the great scholars say that anchor babies are not covered&quot; by the 14th Amendment.</p>
+",half-true,Candidate Biography,donald-trump,candidates-biography
+187,2015-08-18 16:09:25,"<p>&quot;The annual cost of free tax credits alone paid to illegal immigrants quadrupled to $4.2 billion in 2011.&quot;</p>
+",half-true,Housing,donald-trump,veterans
+188,2015-08-16 18:26:33,"<p>Says &quot;if the (Iran nuclear) deal gets rejected, they still get&quot; $150 billion.</p>
+",half-true,Economyeconomy,donald-trump,energy
+189,2015-08-11 14:36:45,"<p>&quot;Every poll said I won the debate.&quot;</p>
+",half-true,Economy,donald-trump,environment
+190,2015-08-10 13:39:11,"<p>&quot;Some of the things that (Megyn Kelly) said, I didn&rsquo;t say.&quot;</p>
+",false,Religionreligion,club-growth,elections
+191,2015-08-07 00:17:51,"<p>Illegal immigration<strong> &quot;</strong>wasn&rsquo;t a subject that was on anybody&rsquo;s mind until I brought it up at my announcement.&quot;</p>
+",false,Religion,donald-trump,polls
+192,2015-08-06 22:12:35,"<p>&quot;The Mexican government ... they send the bad ones over.&quot;</p>
+",pants-fire,Candidate Biographycandidates-biographyEconomyeconomyForeign Policyforeign-policyHistoryhistoryJob Accomplishmentsjob-accomplishmentsTradetrade,john-kasich,candidates-biography
+193,2015-08-02 16:39:40,"<div>Under President Barack Obama, income levels and unemployment numbers &quot;are worse now than just about ever&quot; for African-Americans.</div>
+",false,Candidate Biography,donald-trump,women
+194,2015-07-23 13:25:53,"<p>The five Guantanamo detainees swapped for Bowe Bergdahl &quot;are right now back on the battlefield.&quot;</p>
+",false,Economy,donald-trump,workers
+195,2015-07-21 14:33:31,"<p>Says John McCain &quot;has done nothing to help the vets.&quot;</p>
+",false,Foreign Policy,donald-trump,bankruptcy
+196,2015-07-20 10:00:00,"<p>&quot;If you&#39;re from Syria and you&#39;re a Christian, you cannot come into this country&quot; as a refugee.</p>
+",false,History,donald-trump,candidates-biography
+197,2015-07-19 16:55:38,"<p>&quot;Four times, I said, he (John McCain)&nbsp;is a hero, but you know ... people choose selective pieces.&quot;</p>
+",barely-true,Job Accomplishments,donald-trump,debt
+198,2015-07-14 15:00:00,"<p>&quot;The $5 billion website for Obamacare &hellip; never worked. Still doesn&#39;t work.&quot;</p>
+",false,Trade,keep-promise-1-pac,economy
+199,2015-07-09 13:58:05,"<p>&quot;The Mexican government forces many bad people into our country.&quot;</p>
+",pants-fire,Foreign Policyforeign-policyTerrorismterrorism,hillary-clinton,history
+200,2015-07-06 15:41:32,"<p>&quot;Hundreds of thousands of (illegal immigrants are) going to state and federal penitentiaries.&quot;</p>
+",barely-true,Foreign Policy,donald-trump,housing
+201,2015-07-06 14:37:48,"<p>Says his book,&nbsp;<em>The Art of the Deal,&nbsp;</em>is &quot;the No. 1 selling business book of all time.&quot;</p>
+",false,Terrorism,bernie-s,income
+202,2015-06-28 15:54:53,"<p>Public support for abortion &quot;is actually going down a little bit,&quot; polls show.</p>
+",false,ImmigrationimmigrationUrbanurban,donald-trump,jobs
+203,2015-06-18 14:42:05,"<p>&quot;Even our nuclear arsenal doesn&#39;t work. It came out recently they have equipment that is 30 years old. They don&#39;t know if it worked.&quot;</p>
+",false,Immigration,donald-trump,stimulus
+204,2015-06-17 11:45:24,"<p>&quot;When was the last time you saw a Chevrolet in Japan? It doesn&rsquo;t exist, folks.&quot;</p>
+",barely-true,Urban,mitt-romney,wealth
+205,2015-06-16 18:40:36,"<p>&quot;Our real unemployment is anywhere from 18 to 20 percent. Don&#39;t believe the 5.6. Don&#39;t believe it.&quot;</p>
+",false,Ethicsethics,hillary-clinton,crime
+206,2015-06-16 16:11:15,"<p>&quot;The last quarter, it was just announced, our gross domestic product &hellip; was below zero. Who ever heard of this? It&#39;s never below zero.&quot;</p>
+",pants-fire,Ethics,donald-trump,criminal-justice
+207,2015-06-16 16:10:22,"<p>The Islamic State &quot;just built a hotel in Syria.&quot;</p>
+",false,Iraqiraq,ted-cruz,legal-issues
+208,2012-10-04 16:20:36,"<p>
+	&quot;Under Gov. Romney&#39;s definition ... Donald Trump is a small business.&quot;</p>
+",false,Iraq,donald-trump,crime
+209,2011-05-03 11:59:20,"<p>
+	&quot;We don&#39;t have bridges being built&quot; in the United States.</p>",half-true,Candidate Biographycandidates-biography,donald-trump,immigration
+210,2011-04-27 18:16:19,"<p>
+	After the U.S.-led military alliance ejected Saddam Hussein&rsquo;s forces from Kuwait in 1991, the Kuwaitis &quot;never paid us.&quot;</p>",pants-fire,Candidate Biography,hillary-clinton,terrorism
+211,2011-04-27 13:57:45,"<p>
+	&quot;CNN did a poll recently where Obama and I are statistically tied.&quot;</p>",pants-fire,Candidate Biographycandidates-biographyForeign Policyforeign-policyMilitarymilitary,donald-trump,bankruptcy
+212,2011-04-25 10:19:41,"<p>
+	&quot;Iraq has the second-largest oilfields in the world (behind) Saudi Arabia.&quot;</p>",mostly-true,Candidate Biography,john-kasich,candidates-biography
+213,2011-04-12 16:10:25,"<p>
+	President Obama has spent over $2 million in legal fees defending lawsuits about his birth certificate.</p>",false,Foreign Policy,donald-trump,history
+214,2011-04-11 17:12:09,"<p>
+	&quot;Libya supplies the oil for China. We get no oil from Libya.&quot;</p>",false,Military,donald-trump,income
+215,2011-04-08 14:09:38,"<p>
+	&quot;I have the No. 1 show on NBC.&quot;</p>",half-true,Corrections and Updatescorrections-and-updatesElectionselectionsLegal Issueslegal-issues,harry-reid,campaign-advertising
+216,2011-04-07 19:35:29,"<p>
+	Says President Obama&#39;s &quot;grandmother in Kenya said he was born in Kenya and she was there and witnessed the birth.&quot;</p>",false,Corrections and Updates,donald-trump,taxes
+217,2011-04-01 17:48:16,"<p>
+	South Korea doesn&#39;t pay the United States for U.S. troops that protect their country.</p>",false,Elections,ted-cruz,wealth
+218,2011-02-14 17:39:38,"<p>
+	&quot;The people that went to school with (Barack Obama), they never saw him, they don&#39;t know who he is.&quot;</p>",pants-fire,Legal Issues,donald-trump,history
+219,,,,ImmigrationimmigrationIslamislam,ted-cruz,terrorism
+220,,,,Immigration,donald-trump,workers
+221,,,,Islam,donald-trump,women
+222,,,,Foreign Policyforeign-policyMilitarymilitaryTerrorismterrorism,donald-trump,guns
+223,,,,Foreign Policy,marco-rubio,crime
+224,,,,Military,donald-trump,criminal-justice
+225,,,,Terrorism,donald-trump,human-rights
+226,,,,Foreign Policyforeign-policyMilitarymilitaryTerrorismterrorism,donald-trump,immigration
+227,,,,Foreign Policy,donald-trump,public-safety
+228,,,,Military,donald-trump,elections
+229,,,,Terrorism,ted-cruz,immigration
+230,,,,FamiliesfamiliesForeign Policyforeign-policyHomeland Securityhomeland-securityHuman Rightshuman-rightsImmigrationimmigrationTerrorismterrorism,donald-trump,taxes
+231,,,,Families,donald-trump,abortion
+232,,,,Foreign Policy,donald-trump,foreign-policy
+233,,,,Homeland Security,donald-trump,guns
+234,,,,Human Rights,donald-trump,health-care
+235,,,,Immigration,donald-trump,human-rights
+236,,,,Terrorism,ted-cruz,immigration
+237,,,,ImmigrationimmigrationTerrorismterrorism,donald-trump,islam
+238,,,,Immigration,donald-trump,religion
+239,,,,Terrorism,donald-trump,terrorism
+240,,,,Foreign Policyforeign-policyImmigrationimmigration,bernie-s,candidates-biography
+241,,,,Foreign Policy,donald-trump,history
+242,,,,Immigration,donald-trump,polls
+243,,,,CrimecrimeCriminal Justicecriminal-justice,donald-trump,women
+244,,,,Crime,donald-trump,foreign-policy
+245,,,,Criminal Justice,donald-trump,energy
+246,,,,Legal Issueslegal-issues,donald-trump,foreign-policy
+247,,,,Legal Issues,donald-trump,terrorism
+248,,,,EconomyeconomyForeign Policyforeign-policyHistoryhistoryTradetrade,hillary-clinton,foreign-policy
+249,,,,Economy,donald-trump,iraq
+250,,,,Foreign Policy,donald-trump,candidates-biography
+251,,,,History,rand-paul,corrections-and-updates
+252,,,,Trade,donald-trump,gays-and-lesbians
+253,,,,Candidate Biographycandidates-biographyForeign Policyforeign-policy,jeb-bush,campaign-advertising
+254,,,,Candidate Biography,donald-trump,elections
+255,,,,Foreign Policy,donald-trump,elections
+256,,,,Climate Changeclimate-changeForeign Policyforeign-policy,donald-trump,sports
+257,,,,Climate Change,donald-trump,history
+258,,,,Foreign Policy,donald-trump,polls
+259,,,,Foreign Policyforeign-policyNuclearnuclear,donald-trump,china
+260,,,,Foreign Policy,donald-trump,foreign-policy
+261,,,,Nuclear,donald-trump,military
+262,,,,Health Carehealth-careVeteransveterans,donald-trump,china
+263,,,,Health Care,donald-trump,foreign-policy
+264,,,,Veterans,donald-trump,trade
+265,,,,Candidate Biographycandidates-biographyVeteransveterans,donald-trump,campaign-finance
+266,,,,Candidate Biography,john-kasich,candidates-biography
+267,,,,Veterans,donald-trump,elections
+268,,,,EnergyenergyEnvironmentenvironment,donald-trump,legal-issues
+269,,,,Energy,donald-trump,campaign-advertising
+270,,,,Environment,donald-trump,pop-culture
+271,,,,ElectionselectionsPolls and Public Opinionpolls,donald-trump,legal-issues
+272,,,,Elections,club-growth,china
+273,,,,Polls and Public Opinion,donald-trump,trade
+274,,,,Candidate Biographycandidates-biographyWomenwomenWorkersworkers,donald-trump,foreign-policy
+275,,,,Candidate Biography,donald-trump,nuclear
+276,,,,Women,carly-fiorina,foreign-policy
+277,,,,Workers,donald-trump,terrorism
+278,,,,BankruptcybankruptcyCandidate Biographycandidates-biographyDebtdebtEconomyeconomyHistoryhistoryHousinghousingIncomeincomeJobsjobsStimulusstimulusWealthwealth,marco-rubio,drugs
+279,,,,Bankruptcy,donald-trump,economy
+280,,,,Candidate Biography,donald-trump,federal-budget
+281,,,,Debt,donald-trump,health-care
+282,,,,Economy,carly-fiorina,poverty
+283,,,,History,donald-trump,public-health
+284,,,,Housing,donald-trump,elections
+285,,,,Income,donald-trump,foreign-policy
+286,,,,Jobs,donald-trump,nuclear
+287,,,,Stimulus,donald-trump,civil-rights
+288,,,,Wealth,donald-trump,elections
+289,,,,CrimecrimeCriminal Justicecriminal-justiceLegal Issueslegal-issues,donald-trump,terrorism
+290,,,,Crime,donald-trump,economy
+291,,,,Criminal Justice,donald-trump,education
+292,,,,Legal Issues,donald-trump,health-care
+293,,,,Crimecrime,donald-trump,polls
+294,,,,Crime,donald-trump,history
+295,,,,ImmigrationimmigrationTerrorismterrorism,donald-trump,candidates-biography
+296,,,,Immigration,john-mccain,campaign-finance
+297,,,,Terrorism,donald-trump,history
+298,,,,BankruptcybankruptcyCandidate Biographycandidates-biographyHistoryhistoryIncomeincomeNegative Campaigningcampaign-advertisingTaxestaxesWealthwealth,donald-trump,terrorism
+299,,,,Bankruptcy,donald-trump,voting-record
+300,,,,Candidate Biography,barack-obama,polls
+301,,,,History,donald-trump,history
+302,,,,Income,donald-trump,candidates-biography
+303,,,,Negative Campaigning,donald-trump,candidates-biography
+304,,,,Taxes,donald-trump,candidates-biography
+305,,,,Wealth,donald-trump,crime
+306,,,,HistoryhistoryTerrorismterrorism,donald-trump,legal-issues
+307,,,,History,donald-trump,candidates-biography
+308,,,,Terrorism,donald-trump,corrections-and-updates
+309,,,,Workersworkers,barack-obama,education
+310,,,,Workers,donald-trump,candidates-biography
+311,,,,Womenwomen,donald-trump,immigration
+312,,,,Women,donald-trump,foreign-policy
+313,,,,Gunsguns,barack-obama,immigration
+314,,,,Guns,donald-trump,corrections-and-updates
+315,,,,CrimecrimeCriminal Justicecriminal-justiceHuman Rightshuman-rightsImmigrationimmigrationPublic Safetypublic-safety,donald-trump,history
+316,,,,Crime,donald-trump,military
+317,,,,Criminal Justice,donald-trump,religion
+318,,,,Human Rights,barack-obama,terrorism
+319,,,,Immigration,donald-trump,health-care
+320,,,,Public Safety,donald-trump,elections
+321,,,,ElectionselectionsImmigrationimmigration,donald-trump,polls
+322,,,,Elections,barack-obama,candidates-biography
+323,,,,Immigration,donald-trump,debates
+324,,,,Taxestaxes,donald-trump,iraq
+325,,,,Taxes,barack-obama,economy
+326,,,,AbortionabortionForeign Policyforeign-policyGunsgunsHealth Carehealth-careHuman Rightshuman-rightsImmigrationimmigrationIslamislamReligionreligionTerrorismterrorism,donald-trump,jobs
+327,,,,Abortion,,campaign-finance
+328,,,,Foreign Policy,,taxes
+329,,,,Guns,,debates
+330,,,,Health Care,,iraq
+331,,,,Human Rights,,health-care
+332,,,,Immigration,,candidates-biography
+333,,,,Islam,,debates
+334,,,,Religion,,housing
+335,,,,Terrorism,,climate-change
+336,,,,Candidate Biographycandidates-biographyHistoryhistory,,science
+337,,,,Candidate Biography,,foreign-policy
+338,,,,History,,nuclear
+339,,,,Polls and Public OpinionpollsWomenwomen,,foreign-policy
+340,,,,Polls and Public Opinion,,immigration
+341,,,,Women,,foreign-policy
+342,,,,Foreign Policyforeign-policy,,military
+343,,,,Foreign Policy,,afghanistan
+344,,,,EnergyenergyForeign Policyforeign-policyTerrorismterrorism,,foreign-policy
+345,,,,Energy,,military
+346,,,,Foreign Policy,,terrorism
+347,,,,Terrorism,,immigration
+348,,,,Foreign Policyforeign-policyIraqiraq,,polls
+349,,,,Foreign Policy,,corrections-and-updates
+350,,,,Iraq,,terrorism
+351,,,,Candidate Biographycandidates-biographyCorrections and Updatescorrections-and-updatesGays and Lesbiansgays-and-lesbiansNegative Campaigningcampaign-advertising,,terrorism
+352,,,,Candidate Biography,,legal-issues
+353,,,,Corrections and Updates,,military
+354,,,,Gays and Lesbians,,terrorism
+355,,,,Negative Campaigning,,foreign-policy
+356,,,,Electionselections,,terrorism
+357,,,,Elections,,energy
+358,,,,Electionselections,,environment
+359,,,,Elections,,islam
+360,,,,Sportssports,,polls
+361,,,,Sports,,religion
+362,,,,HistoryhistoryPolls and Public Opinionpolls,,terrorism
+363,,,,History,,crime
+364,,,,Polls and Public Opinion,,terrorism
+365,,,,ChinachinaForeign Policyforeign-policyMilitarymilitary,,civil-rights
+366,,,,China,,islam
+367,,,,Foreign Policy,,terrorism
+368,,,,Military,,immigration
+369,,,,ChinachinaForeign Policyforeign-policyTradetrade,,china
+370,,,,China,,trade
+371,,,,Foreign Policy,,history
+372,,,,Trade,,immigration
+373,,,,Campaign Financecampaign-financeCandidate Biographycandidates-biographyElectionselectionsLegal Issueslegal-issuesNegative Campaigningcampaign-advertisingPop Culturepop-culture,,china
+374,,,,Campaign Finance,,foreign-policy
+375,,,,Candidate Biography,,trade
+376,,,,Elections,,polls
+377,,,,Legal Issues,,federal-budget
+378,,,,Negative Campaigning,,taxes
+379,,,,Pop Culture,,debates
+380,,,,Legal Issueslegal-issues,,energy
+381,,,,Legal Issues,,environment
+382,,,,ChinachinaTradetrade,,state-finances
+383,,,,China,,immigration
+384,,,,Trade,,health-care
+385,,,,Foreign Policyforeign-policyNuclearnuclear,,terrorism
+386,,,,Foreign Policy,,candidates-biography
+387,,,,Nuclear,,supreme-court
+388,,,,Foreign Policyforeign-policyTerrorismterrorism,,foreign-policy
+389,,,,Foreign Policy,,immigration
+390,,,,Terrorism,,corrections-and-updates
+391,,,,DrugsdrugsEconomyeconomyFederal Budgetfederal-budgetHealth Carehealth-carePovertypovertyPublic Healthpublic-health,,economy
+392,,,,Drugs,,jobs
+393,,,,Economy,,obama-birth-certificate
+394,,,,Federal Budget,,candidates-biography
+395,,,,Health Care,,job-accomplishments
+396,,,,Poverty,,technology
+397,,,,Public Health,,candidates-biography
+398,,,,Electionselections,,immigration
+399,,,,Elections,,economy
+400,,,,Foreign Policyforeign-policyNuclearnuclear,,candidates-biography
+401,,,,Foreign Policy,,economy
+402,,,,Nuclear,,jobs
+403,,,,Civil Rightscivil-rightsElectionselectionsTerrorismterrorism,,taxes
+404,,,,Civil Rights,,foreign-policy
+405,,,,Elections,,trade
+406,,,,Terrorism,,immigration
+407,,,,Economyeconomy,,immigration
+408,,,,Economy,,taxes
+409,,,,Educationeducation,,foreign-policy
+410,,,,Education,,nuclear
+411,,,,Health Carehealth-care,,polls
+412,,,,Health Care,,women
+413,,,,Polls and Public Opinionpolls,,immigration
+414,,,,Polls and Public Opinion,,immigration
+415,,,,Historyhistory,,economy
+416,,,,History,,terrorism
+417,,,,Candidate Biographycandidates-biography,,military
+418,,,,Candidate Biography,,veterans
+419,,,,Campaign Financecampaign-finance,,voting-record
+420,,,,Campaign Finance,,foreign-policy
+421,,,,HistoryhistoryTerrorismterrorism,,immigration
+422,,,,History,,religion
+423,,,,Terrorism,,elections
+424,,,,Voting Recordvoting-record,,military
+425,,,,Voting Record,,government-efficiency
+426,,,,Polls and Public Opinionpolls,,health-care
+427,,,,Polls and Public Opinion,,foreign-policy
+428,,,,Historyhistory,,immigration
+429,,,,History,,crime
+430,,,,Candidate Biographycandidates-biography,,immigration
+431,,,,Candidate Biography,,candidates-biography
+432,,,,Candidate Biographycandidates-biography,,job-accomplishments
+433,,,,Candidate Biography,,abortion
+434,,,,Candidate Biographycandidates-biographyCrimecrime,,polls
+435,,,,Candidate Biography,,military
+436,,,,Crime,,nuclear
+437,,,,Legal Issueslegal-issues,,economy
+438,,,,Legal Issues,,transportation
+439,,,,Candidate Biographycandidates-biographyCorrections and Updatescorrections-and-updatesEducationeducation,,economy
+440,,,,Candidate Biography,,jobs
+441,,,,Corrections and Updates,,economy
+442,,,,Education,,jobs
+443,,,,Candidate Biographycandidates-biographyImmigrationimmigration,,terrorism
+444,,,,Candidate Biography,,debates
+445,,,,Immigration,,small-business
+446,,,,Foreign Policyforeign-policy,,taxes
+447,,,,Foreign Policy,,infrastructure
+448,,,,Immigrationimmigration,,foreign-policy
+449,,,,Immigration,,history
+450,,,,Corrections and Updatescorrections-and-updatesHistoryhistoryMilitarymilitaryReligionreligionTerrorismterrorism,,military
+451,,,,Corrections and Updates,,polls
+452,,,,History,,energy
+453,,,,Military,,foreign-policy
+454,,,,Religion,,obama-birth-certificate
+455,,,,Terrorism,,china
+456,,,,Health Carehealth-care,,energy
+457,,,,Health Care,,foreign-policy
+458,,,,ElectionselectionsPolls and Public Opinionpolls,,candidates-biography
+459,,,,Elections,,pop-culture
+460,,,,Polls and Public Opinion,,obama-birth-certificate
+461,,,,Candidate Biographycandidates-biographyDebatesdebatesIraqiraq,,federal-budget
+462,,,,Candidate Biography,,foreign-policy
+463,,,,Debates,,military
+464,,,,Iraq,,candidates-biography
+465,,,,EconomyeconomyJobsjobs,,education
+466,,,,Economy,,obama-birth-certificate
+467,,,,Jobs,,
+468,,,,Campaign Financecampaign-finance,,
+469,,,,Campaign Finance,,
+470,,,,Taxestaxes,,
+471,,,,Taxes,,
+472,,,,DebatesdebatesIraqiraq,,
+473,,,,Debates,,
+474,,,,Iraq,,
+475,,,,Health Carehealth-care,,
+476,,,,Health Care,,
+477,,,,Candidate Biographycandidates-biographyDebatesdebates,,
+478,,,,Candidate Biography,,
+479,,,,Debates,,
+480,,,,Housinghousing,,
+481,,,,Housing,,
+482,,,,Climate Changeclimate-changeSciencescience,,
+483,,,,Climate Change,,
+484,,,,Science,,
+485,,,,Foreign Policyforeign-policyNuclearnuclear,,
+486,,,,Foreign Policy,,
+487,,,,Nuclear,,
+488,,,,Foreign Policyforeign-policyImmigrationimmigration,,
+489,,,,Foreign Policy,,
+490,,,,Immigration,,
+491,,,,Foreign Policyforeign-policyMilitarymilitary,,
+492,,,,Foreign Policy,,
+493,,,,Military,,
+494,,,,AfghanistanafghanistanForeign Policyforeign-policyMilitarymilitaryTerrorismterrorism,,
+495,,,,Afghanistan,,
+496,,,,Foreign Policy,,
+497,,,,Military,,
+498,,,,Terrorism,,
+499,,,,Immigrationimmigration,,
+500,,,,Immigration,,
+501,,,,Polls and Public Opinionpolls,,
+502,,,,Polls and Public Opinion,,
+503,,,,Corrections and Updatescorrections-and-updatesTerrorismterrorism,,
+504,,,,Corrections and Updates,,
+505,,,,Terrorism,,
+506,,,,Terrorismterrorism,,
+507,,,,Terrorism,,
+508,,,,Legal Issueslegal-issuesMilitarymilitaryTerrorismterrorism,,
+509,,,,Legal Issues,,
+510,,,,Military,,
+511,,,,Terrorism,,
+512,,,,Foreign Policyforeign-policyTerrorismterrorism,,
+513,,,,Foreign Policy,,
+514,,,,Terrorism,,
+515,,,,EnergyenergyEnvironmentenvironment,,
+516,,,,Energy,,
+517,,,,Environment,,
+518,,,,IslamislamPolls and Public OpinionpollsReligionreligionTerrorismterrorism,,
+519,,,,Islam,,
+520,,,,Polls and Public Opinion,,
+521,,,,Religion,,
+522,,,,Terrorism,,
+523,,,,Crimecrime,,
+524,,,,Crime,,
+525,,,,Terrorismterrorism,,
+526,,,,Terrorism,,
+527,,,,Civil Rightscivil-rightsIslamislamTerrorismterrorism,,
+528,,,,Civil Rights,,
+529,,,,Islam,,
+530,,,,Terrorism,,
+531,,,,Immigrationimmigration,,
+532,,,,Immigration,,
+533,,,,ChinachinaTradetrade,,
+534,,,,China,,
+535,,,,Trade,,
+536,,,,HistoryhistoryImmigrationimmigration,,
+537,,,,History,,
+538,,,,Immigration,,
+539,,,,ChinachinaForeign Policyforeign-policyTradetrade,,
+540,,,,China,,
+541,,,,Foreign Policy,,
+542,,,,Trade,,
+543,,,,Polls and Public Opinionpolls,,
+544,,,,Polls and Public Opinion,,
+545,,,,Federal Budgetfederal-budgetTaxestaxes,,
+546,,,,Federal Budget,,
+547,,,,Taxes,,
+548,,,,Debatesdebates,,
+549,,,,Debates,,
+550,,,,EnergyenergyEnvironmentenvironmentState Financesstate-finances,,
+551,,,,Energy,,
+552,,,,Environment,,
+553,,,,State Finances,,
+554,,,,Immigrationimmigration,,
+555,,,,Immigration,,
+556,,,,Health Carehealth-care,,
+557,,,,Health Care,,
+558,,,,Terrorismterrorism,,
+559,,,,Terrorism,,
+560,,,,Candidate Biographycandidates-biographySupreme Courtsupreme-court,,
+561,,,,Candidate Biography,,
+562,,,,Supreme Court,,
+563,,,,Foreign Policyforeign-policyImmigrationimmigration,,
+564,,,,Foreign Policy,,
+565,,,,Immigration,,
+566,,,,Corrections and Updatescorrections-and-updatesEconomyeconomyJobsjobs,,
+567,,,,Corrections and Updates,,
+568,,,,Economy,,
+569,,,,Jobs,,
+570,,,,Obama Birth Certificateobama-birth-certificate,,
+571,,,,Obama Birth Certificate,,
+572,,,,Candidate Biographycandidates-biographyJob Accomplishmentsjob-accomplishmentsTechnologytechnology,,
+573,,,,Candidate Biography,,
+574,,,,Job Accomplishments,,
+575,,,,Technology,,
+576,,,,Candidate Biographycandidates-biography,,
+577,,,,Candidate Biography,,
+578,,,,Immigrationimmigration,,
+579,,,,Immigration,,
+580,,,,Economyeconomy,,
+581,,,,Economy,,
+582,,,,Candidate Biographycandidates-biography,,
+583,,,,Candidate Biography,,
+584,,,,EconomyeconomyJobsjobs,,
+585,,,,Economy,,
+586,,,,Jobs,,
+587,,,,Taxestaxes,,
+588,,,,Taxes,,
+589,,,,Foreign Policyforeign-policyTradetrade,,
+590,,,,Foreign Policy,,
+591,,,,Trade,,
+592,,,,Immigrationimmigration,,
+593,,,,Immigration,,
+594,,,,ImmigrationimmigrationTaxestaxes,,
+595,,,,Immigration,,
+596,,,,Taxes,,
+597,,,,Foreign Policyforeign-policyNuclearnuclear,,
+598,,,,Foreign Policy,,
+599,,,,Nuclear,,
+600,,,,Polls and Public Opinionpolls,,
+601,,,,Polls and Public Opinion,,
+602,,,,Womenwomen,,
+603,,,,Women,,
+604,,,,Immigrationimmigration,,
+605,,,,Immigration,,
+606,,,,Immigrationimmigration,,
+607,,,,Immigration,,
+608,,,,Economyeconomy,,
+609,,,,Economy,,
+610,,,,Terrorismterrorism,,
+611,,,,Terrorism,,
+612,,,,MilitarymilitaryVeteransveteransVoting Recordvoting-record,,
+613,,,,Military,,
+614,,,,Veterans,,
+615,,,,Voting Record,,
+616,,,,Foreign Policyforeign-policyImmigrationimmigrationReligionreligion,,
+617,,,,Foreign Policy,,
+618,,,,Immigration,,
+619,,,,Religion,,
+620,,,,ElectionselectionsMilitarymilitary,,
+621,,,,Elections,,
+622,,,,Military,,
+623,,,,Government Efficiencygovernment-efficiencyHealth Carehealth-care,,
+624,,,,Government Efficiency,,
+625,,,,Health Care,,
+626,,,,Foreign Policyforeign-policyImmigrationimmigration,,
+627,,,,Foreign Policy,,
+628,,,,Immigration,,
+629,,,,CrimecrimeImmigrationimmigration,,
+630,,,,Crime,,
+631,,,,Immigration,,
+632,,,,Candidate Biographycandidates-biographyJob Accomplishmentsjob-accomplishments,,
+633,,,,Candidate Biography,,
+634,,,,Job Accomplishments,,
+635,,,,AbortionabortionPolls and Public Opinionpolls,,
+636,,,,Abortion,,
+637,,,,Polls and Public Opinion,,
+638,,,,MilitarymilitaryNuclearnuclear,,
+639,,,,Military,,
+640,,,,Nuclear,,
+641,,,,EconomyeconomyTransportationtransportation,,
+642,,,,Economy,,
+643,,,,Transportation,,
+644,,,,EconomyeconomyJobsjobs,,
+645,,,,Economy,,
+646,,,,Jobs,,
+647,,,,EconomyeconomyJobsjobs,,
+648,,,,Economy,,
+649,,,,Jobs,,
+650,,,,Terrorismterrorism,,
+651,,,,Terrorism,,
+652,,,,DebatesdebatesSmall Businesssmall-businessTaxestaxes,,
+653,,,,Debates,,
+654,,,,Small Business,,
+655,,,,Taxes,,
+656,,,,Infrastructureinfrastructure,,
+657,,,,Infrastructure,,
+658,,,,Foreign Policyforeign-policyHistoryhistoryMilitarymilitary,,
+659,,,,Foreign Policy,,
+660,,,,History,,
+661,,,,Military,,
+662,,,,Polls and Public Opinionpolls,,
+663,,,,Polls and Public Opinion,,
+664,,,,EnergyenergyForeign Policyforeign-policy,,
+665,,,,Energy,,
+666,,,,Foreign Policy,,
+667,,,,Obama Birth Certificateobama-birth-certificate,,
+668,,,,Obama Birth Certificate,,
+669,,,,ChinachinaEnergyenergyForeign Policyforeign-policy,,
+670,,,,China,,
+671,,,,Energy,,
+672,,,,Foreign Policy,,
+673,,,,Candidate Biographycandidates-biographyPop Culturepop-culture,,
+674,,,,Candidate Biography,,
+675,,,,Pop Culture,,
+676,,,,Obama Birth Certificateobama-birth-certificate,,
+677,,,,Obama Birth Certificate,,
+678,,,,Federal Budgetfederal-budgetForeign Policyforeign-policyMilitarymilitary,,
+679,,,,Federal Budget,,
+680,,,,Foreign Policy,,
+681,,,,Military,,
+682,,,,Candidate Biographycandidates-biographyEducationeducationObama Birth Certificateobama-birth-certificate,,
+683,,,,Candidate Biography,,
+684,,,,Education,,
+685,,,,Obama Birth Certificate,,
